@@ -1,4 +1,4 @@
-const socket = io('https://websocketio-backend.onrender.com')
+const socket = io('https://websocketio-backend-1.onrender.com')
 
 const clientsTotal = document.getElementById('client-total')
 
